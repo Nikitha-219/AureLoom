@@ -2,14 +2,12 @@ import Navbar from "./Navbar";
 import Products from "./Products";
 import banner from "../assets/banner.jpeg";
 import { useNavigate } from "react-router-dom";
-import { useState } from "react";
 
 function Home() {
   const navigate = useNavigate();
   const user = JSON.parse(localStorage.getItem("user"));
 
   const getCart = () => JSON.parse(localStorage.getItem("cart")) || [];
-  const [showMsg, setShowMsg] = useState(false);
 
   const addToCart = (product) => {
     let cart = getCart();
