@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Anita Devi",
+    "location": "Bhuj, Gujarat",
+    "speciality": "Bandhani & Ajrakh Printing",
+    "rating": 4.9,
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "about": "Renowned for her intricate bandhani work and ajrakh printing. Anita has won several national awards for preserving traditional crafts."
+  },
+  {
+    "name": "Priya Sharma",
+    "location": "Varanasi, Uttar Pradesh",
+    "speciality": "Silk Weaving & Traditional Sarees",
+    "rating": 4.8,
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "about": "Third-generation weaver specializing in traditional silk sarees with modern designs and cultural heritage."
+  },
+  {
+    "name": "Rajesh Kumar",
+    "location": "Jaipur, Rajasthan",
+    "speciality": "Block Printing & Natural Dyes",
+    "rating": 4.7,
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "about": "Master artisan in traditional block printing using eco-friendly dyes and sustainable practices."
+  },
+  {
+    "name": "Suresh Patel",
+    "location": "Surat, Gujarat",
+    "speciality": "Handloom Cotton Fabrics",
+    "rating": 4.6,
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "about": "Expert in weaving breathable cotton fabrics with modern comfort and traditional aesthetics."
+  },
+  {
+    "name": "Lakshmi Devi",
+    "location": "Kanchipuram, Tamil Nadu",
+    "speciality": "Kanchipuram Silk Sarees",
+    "rating": 4.9,
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "about": "Specialist in luxurious Kanchipuram silk sarees known for rich zari work and temple designs."
+  },
+  {
+    "name": "Arjun Reddy",
+    "location": "Hyderabad, Telangana",
+    "speciality": "Ikat & Handwoven Textiles",
+    "rating": 4.7,
+    "image": "https://randomuser.me/api/portraits/men/52.jpg",
+    "about": "Passionate ikat artisan blending geometric patterns with vibrant colors in handwoven textiles."
+  }
+]

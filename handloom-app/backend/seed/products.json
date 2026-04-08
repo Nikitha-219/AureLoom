@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Elegant Off-White & Bottle Green Cotton Silk Saree",
+    "price": 2500,
+    "image": "https://i.pinimg.com/736x/08/3f/d9/083fd9ff3cbffa9f1c1791d77578ed3c.jpg",
+    "rating": 4.5,
+    "category": "saree",
+    "shortDescription": "Elegant cotton silk saree with rich zari border",
+    "description": "Elevate your ethnic wardrobe with this timeless off-white cotton silk saree accented by a rich bottle green border. The saree features intricate golden woven motifs along the border, adding a touch of traditional charm and elegance.",
+    "details": {
+      "Seller": "Shailaja",
+      "Color": "Off-White",
+      "Border Color": "Bottle Green with Gold Motifs",
+      "Blouse Color": "Bottle Green",
+      "Fabric": "Cotton Silk Blend",
+      "Length": "5.5 meters",
+      "Blouse": "0.8 meters (Unstitched)",
+      "Pattern": "Zari Border",
+      "Occasion": "Festive, Traditional, Casual Ethnic Wear",
+      "Wash Care": "Hand wash separately in cold water"
+    },
+    "stock": 15
+  },
+  {
+    "name": "Ivory & Indigo Handblock Printed Kurta Set with Dupatta",
+    "price": 1500,
+    "image": "https://i.pinimg.com/1200x/e8/b8/d5/e8b8d5bad513302ed6b39a3955396092.jpg",
+    "rating": 4.2,
+    "category": "kurta",
+    "shortDescription": "Elegant cotton silk saree with rich zari border",
+    "description": "Step into effortless elegance with this ivory kurta set paired with a beautifully printed indigo dupatta.",
+    "details": {
+      "Seller": "Tanya",
+      "Color": "Ivory",
+      "Fabric": "Cotton",
+      "Set Includes": "Kurta, Pant & Dupatta",
+      "Occasion": "Casual, Office Wear, Ethnic Day Wear",
+      "Wash Care": "Hand wash or gentle machine wash"
+    },
+    "stock": 20
+  },
+  {
+    "name": "Mustard Yellow Floral Printed Maxi Dress",
+    "price": 1299,
+    "image": "https://i.pinimg.com/1200x/b0/7a/2e/b07a2ef7a6d77f7e40e0b83c5688b1bd.jpg",
+    "rating": 4.0,
+    "category": "dress",
+    "shortDescription": "Elegant printed cotton maxi dress",
+    "description": "Add a touch of effortless charm to your wardrobe with this mustard yellow floral printed maxi dress.",
+    "details": {
+      "Seller": "Gauthami",
+      "Color": "Mustard Yellow",
+      "Fabric": "Lightweight Rayon / Cotton Blend",
+      "Pattern": "Printed Detailing",
+      "Occasion": "Casual Wear, Day Outings, Vacation Wear",
+      "Wash Care": "Gentle machine wash or hand wash"
+    },
+    "stock": 12
+  },
+  {
+    "name": "Ivory Printed Cotton Kurta Set for Men",
+    "price": 1599,
+    "image": "https://i.pinimg.com/1200x/a2/04/4c/a2044c41c617333c2670d2b5fbf87a03.jpg",
+    "rating": 4.5,
+    "category": "menswear",
+    "shortDescription": "Elegant printed cotton kurta set for men",
+    "description": "Make a refined ethnic statement with this ivory kurta set featuring artistic printed detailing.",
+    "details": {
+      "Seller": "Sahil",
+      "Color": "Ivory",
+      "Fabric": "Cotton",
+      "Set Includes": "Kurta, Pant",
+      "Occasion": "Festive, Wedding, Traditional Wear",
+      "Wash Care": "Dry clean recommended / Gentle hand wash"
+    },
+    "stock": 18
+  },
+  {
+    "name": "Beige Printed Cotton Shirt & White Trouser Set for Men",
+    "price": 2199,
+    "image": "https://i.pinimg.com/1200x/e5/f9/71/e5f971be589080601485886ea381e725.jpg",
+    "rating": 4.8,
+    "category": "menswear",
+    "shortDescription": "Elegant printed cotton shirt and trouser set for men",
+    "description": "Upgrade your casual ethnic wardrobe with this beige printed cotton shirt paired with classic white trousers.",
+    "details": {
+      "Seller": "Sourav",
+      "Color": "Beige",
+      "Fabric": "Cotton",
+      "Set Includes": "Shirt & Trouser",
+      "Occasion": "Casual Wear, Festive Day Wear, Resort Wear",
+      "Wash Care": "Gentle machine wash / Hand wash"
+    },
+    "stock": 10
+  },
+  {
+    "name": "Cream Silk Traditional Dhoti Pants for Men",
+    "price": 1199,
+    "image": "https://i.pinimg.com/1200x/9c/07/ea/9c07eaa005af8c1f31b27a964ede7427.jpg",
+    "rating": 4.1,
+    "category": "menswear",
+    "shortDescription": "Elegant cream silk dhoti pants for men",
+    "description": "Bring timeless elegance to your ethnic wardrobe with these cream silk dhoti pants.",
+    "details": {
+      "Seller": "Surendhra",
+      "Color": "Cream",
+      "Fabric": "Silk Blend",
+      "Pattern": "Solid with Embroidered Borders",
+      "Occasion": "Festive Wear, Wedding, Traditional Functions",
+      "Wash Care": "Dry clean recommended"
+    },
+    "stock": 8
+  },
+  {
+    "name": "Off-White Handwoven Cotton Stole with Red Motifs",
+    "price": 1099,
+    "image": "https://i.pinimg.com/1200x/a3/81/8e/a3818ee419c149dd6932eb3419839b47.jpg",
+    "rating": 4.3,
+    "category": "accessories",
+    "shortDescription": "Elegant off-white handwoven cotton stole with red motifs",
+    "description": "Bring timeless elegance to your ethnic wardrobe with this off-white handwoven cotton stole featuring intricate red motifs.",
+    "details": {
+      "Seller": "Suzen",
+      "Color": "Off-White",
+      "Fabric": "Handwoven Cotton",
+      "Pattern": "Woven Motifs",
+      "Occasion": "Casual Wear, Festive Wear, Daily Ethnic",
+      "Wash Care": "Hand wash separately in cold water"
+    },
+    "stock": 25
+  },
+  {
+    "name": "Beige Hand-Embroidered Linen Sling Bag",
+    "price": 1499,
+    "image": "https://i.pinimg.com/1200x/4a/ed/dc/4aeddc1cfded689bd68fb622dbdcf956.jpg",
+    "rating": 4.0,
+    "category": "accessories",
+    "shortDescription": "Elegant beige hand-embroidered linen sling bag",
+    "description": "Add a touch of handcrafted elegance to your everyday style with this beige linen sling bag.",
+    "details": {
+      "Seller": "Suzen",
+      "Color": "Beige",
+      "Fabric": "Handwoven Linen",
+      "Pattern": "Hand Embroidered Floral Motifs",
+      "Occasion": "Casual Wear, Travel, Daily Use",
+      "Wash Care": "Spot clean only"
+    },
+    "stock": 14
+  },
+  {
+    "name": "Rustic Handwoven Wool Blend Sweater with Tribal Motifs",
+    "price": 1300,
+    "image": "https://i.pinimg.com/1200x/0b/a9/5f/0ba95f072138d34f31a2ba4f6d4ab90e.jpg",
+    "rating": 4.3,
+    "category": "winterwear",
+    "shortDescription": "Elegant rustic handwoven wool blend sweater with tribal motifs",
+    "description": "Wrap yourself in warmth and timeless craftsmanship with this rustic handwoven sweater.",
+    "details": {
+      "Seller": "Suzen",
+      "Color": "Rustic Brown with Beige & Black Patterns",
+      "Fabric": "Wool Blend",
+      "Pattern": "Tribal Woven Motifs",
+      "Occasion": "Casual Wear, Winter Wear",
+      "Wash Care": "Hand wash in cold water, dry flat"
+    },
+    "stock": 10
+  }
+]
